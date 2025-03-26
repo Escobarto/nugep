@@ -1,0 +1,17 @@
+streamlit
+
+pandas
+
+branca
+
+streamlit-folium
+
+geopy
+
+Pillow
+
+requests
+
+plotly
+
+openpyxl
